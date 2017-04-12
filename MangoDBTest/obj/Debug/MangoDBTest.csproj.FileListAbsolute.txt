@@ -1,0 +1,15 @@
+D:\Work\洋码头卖家后台\YmatouFund\AdvanceWithdrawService\AdvanceWithdrawAPI\MangoDBTest\bin\Debug\MangoDBTest.exe
+D:\Work\洋码头卖家后台\YmatouFund\AdvanceWithdrawService\AdvanceWithdrawAPI\MangoDBTest\bin\Debug\MangoDBTest.pdb
+D:\Work\洋码头卖家后台\YmatouFund\AdvanceWithdrawService\AdvanceWithdrawAPI\MangoDBTest\obj\Debug\MangoDBTest.csprojResolveAssemblyReference.cache
+D:\Work\洋码头卖家后台\YmatouFund\AdvanceWithdrawService\AdvanceWithdrawAPI\MangoDBTest\obj\Debug\MangoDBTest.Properties.Resources.resources
+D:\Work\洋码头卖家后台\YmatouFund\AdvanceWithdrawService\AdvanceWithdrawAPI\MangoDBTest\obj\Debug\MangoDBTest.csproj.GenerateResource.Cache
+D:\Work\洋码头卖家后台\YmatouFund\AdvanceWithdrawService\AdvanceWithdrawAPI\MangoDBTest\obj\Debug\MangoDBTest.exe
+D:\Work\洋码头卖家后台\YmatouFund\AdvanceWithdrawService\AdvanceWithdrawAPI\MangoDBTest\obj\Debug\MangoDBTest.pdb
+D:\Work\洋码头卖家后台\YmatouFund\AdvanceWithdrawService\AdvanceWithdrawAPI\MangoDBTest\bin\Debug\MangoDBTest.exe.config
+D:\Work\洋码头卖家后台\YmatouFund\AdvanceWithdrawService\AdvanceWithdrawAPI\MangoDBTest\bin\Debug\MongoDB.Bson.dll
+D:\Work\洋码头卖家后台\YmatouFund\AdvanceWithdrawService\AdvanceWithdrawAPI\MangoDBTest\bin\Debug\MongoDB.Driver.Core.dll
+D:\Work\洋码头卖家后台\YmatouFund\AdvanceWithdrawService\AdvanceWithdrawAPI\MangoDBTest\bin\Debug\MongoDB.Driver.dll
+D:\Work\洋码头卖家后台\YmatouFund\AdvanceWithdrawService\AdvanceWithdrawAPI\MangoDBTest\bin\Debug\MongoDB.Driver.Legacy.dll
+D:\Work\洋码头卖家后台\YmatouFund\AdvanceWithdrawService\AdvanceWithdrawAPI\MangoDBTest\bin\Debug\MongoDB.Bson.xml
+D:\Work\洋码头卖家后台\YmatouFund\AdvanceWithdrawService\AdvanceWithdrawAPI\MangoDBTest\bin\Debug\MongoDB.Driver.xml
+D:\Work\洋码头卖家后台\YmatouFund\AdvanceWithdrawService\AdvanceWithdrawAPI\MangoDBTest\bin\Debug\MongoDB.Driver.Legacy.xml

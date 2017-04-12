@@ -1,0 +1,13 @@
+D:\Work\洋码头运营营销\营销\YmatouReturnBill\SellerReturnBillAPI\Main\MongoDbTest\bin\Debug\MongoDbTest.exe.config
+D:\Work\洋码头运营营销\营销\YmatouReturnBill\SellerReturnBillAPI\Main\MongoDbTest\obj\Debug\MongoDbTest.csprojResolveAssemblyReference.cache
+D:\Work\洋码头运营营销\营销\YmatouReturnBill\SellerReturnBillAPI\Main\MongoDbTest\bin\Debug\MongoDbTest.exe
+D:\Work\洋码头运营营销\营销\YmatouReturnBill\SellerReturnBillAPI\Main\MongoDbTest\bin\Debug\MongoDbTest.pdb
+D:\Work\洋码头运营营销\营销\YmatouReturnBill\SellerReturnBillAPI\Main\MongoDbTest\bin\Debug\MongoDB.Bson.dll
+D:\Work\洋码头运营营销\营销\YmatouReturnBill\SellerReturnBillAPI\Main\MongoDbTest\bin\Debug\MongoDB.Driver.Core.dll
+D:\Work\洋码头运营营销\营销\YmatouReturnBill\SellerReturnBillAPI\Main\MongoDbTest\bin\Debug\MongoDB.Driver.dll
+D:\Work\洋码头运营营销\营销\YmatouReturnBill\SellerReturnBillAPI\Main\MongoDbTest\bin\Debug\MongoDB.Driver.Legacy.dll
+D:\Work\洋码头运营营销\营销\YmatouReturnBill\SellerReturnBillAPI\Main\MongoDbTest\bin\Debug\MongoDB.Bson.xml
+D:\Work\洋码头运营营销\营销\YmatouReturnBill\SellerReturnBillAPI\Main\MongoDbTest\bin\Debug\MongoDB.Driver.xml
+D:\Work\洋码头运营营销\营销\YmatouReturnBill\SellerReturnBillAPI\Main\MongoDbTest\bin\Debug\MongoDB.Driver.Legacy.xml
+D:\Work\洋码头运营营销\营销\YmatouReturnBill\SellerReturnBillAPI\Main\MongoDbTest\obj\Debug\MongoDbTest.exe
+D:\Work\洋码头运营营销\营销\YmatouReturnBill\SellerReturnBillAPI\Main\MongoDbTest\obj\Debug\MongoDbTest.pdb

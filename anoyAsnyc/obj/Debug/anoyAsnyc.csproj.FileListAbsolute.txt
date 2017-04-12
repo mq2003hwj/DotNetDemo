@@ -1,0 +1,6 @@
+D:\Work\洋码头运营营销\营销\YmatouReturnBill\SellerReturnBillAPI\Main\anoyAsnyc\obj\Debug\anoyAsnyc.csprojResolveAssemblyReference.cache
+D:\Work\洋码头运营营销\营销\YmatouReturnBill\SellerReturnBillAPI\Main\anoyAsnyc\bin\Debug\anoyAsnyc.exe.config
+D:\Work\洋码头运营营销\营销\YmatouReturnBill\SellerReturnBillAPI\Main\anoyAsnyc\bin\Debug\anoyAsnyc.exe
+D:\Work\洋码头运营营销\营销\YmatouReturnBill\SellerReturnBillAPI\Main\anoyAsnyc\bin\Debug\anoyAsnyc.pdb
+D:\Work\洋码头运营营销\营销\YmatouReturnBill\SellerReturnBillAPI\Main\anoyAsnyc\obj\Debug\anoyAsnyc.exe
+D:\Work\洋码头运营营销\营销\YmatouReturnBill\SellerReturnBillAPI\Main\anoyAsnyc\obj\Debug\anoyAsnyc.pdb

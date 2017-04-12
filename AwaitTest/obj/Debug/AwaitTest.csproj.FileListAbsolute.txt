@@ -1,0 +1,6 @@
+D:\Work\洋码头卖家后台\YmatouFund\AdvanceWithdrawService\AdvanceWithdrawAPI\AwaitTest\bin\Debug\AwaitTest.exe.config
+D:\Work\洋码头卖家后台\YmatouFund\AdvanceWithdrawService\AdvanceWithdrawAPI\AwaitTest\bin\Debug\AwaitTest.exe
+D:\Work\洋码头卖家后台\YmatouFund\AdvanceWithdrawService\AdvanceWithdrawAPI\AwaitTest\bin\Debug\AwaitTest.pdb
+D:\Work\洋码头卖家后台\YmatouFund\AdvanceWithdrawService\AdvanceWithdrawAPI\AwaitTest\obj\Debug\AwaitTest.csprojResolveAssemblyReference.cache
+D:\Work\洋码头卖家后台\YmatouFund\AdvanceWithdrawService\AdvanceWithdrawAPI\AwaitTest\obj\Debug\AwaitTest.exe
+D:\Work\洋码头卖家后台\YmatouFund\AdvanceWithdrawService\AdvanceWithdrawAPI\AwaitTest\obj\Debug\AwaitTest.pdb

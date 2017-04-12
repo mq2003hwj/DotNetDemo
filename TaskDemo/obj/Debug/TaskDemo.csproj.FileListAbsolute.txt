@@ -1,0 +1,6 @@
+D:\Work\洋码头卖家后台\YmatouFund\AdvanceWithdrawService\AdvanceWithdrawAPI\TaskDemo\bin\Debug\TaskDemo.exe
+D:\Work\洋码头卖家后台\YmatouFund\AdvanceWithdrawService\AdvanceWithdrawAPI\TaskDemo\bin\Debug\TaskDemo.pdb
+D:\Work\洋码头卖家后台\YmatouFund\AdvanceWithdrawService\AdvanceWithdrawAPI\TaskDemo\obj\Debug\TaskDemo.exe
+D:\Work\洋码头卖家后台\YmatouFund\AdvanceWithdrawService\AdvanceWithdrawAPI\TaskDemo\obj\Debug\TaskDemo.pdb
+D:\Work\洋码头卖家后台\YmatouFund\AdvanceWithdrawService\AdvanceWithdrawAPI\TaskDemo\bin\Debug\TaskDemo.exe.config
+D:\Work\洋码头卖家后台\YmatouFund\AdvanceWithdrawService\AdvanceWithdrawAPI\TaskDemo\obj\Debug\TaskDemo.csprojResolveAssemblyReference.cache

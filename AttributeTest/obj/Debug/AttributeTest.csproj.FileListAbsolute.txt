@@ -1,0 +1,5 @@
+D:\Work\洋码头运营营销\营销\YmatouReturnBill\SellerReturnBillAPI\Main\AttributeTest\bin\Debug\AttributeTest.exe
+D:\Work\洋码头运营营销\营销\YmatouReturnBill\SellerReturnBillAPI\Main\AttributeTest\bin\Debug\AttributeTest.pdb
+D:\Work\洋码头运营营销\营销\YmatouReturnBill\SellerReturnBillAPI\Main\AttributeTest\obj\Debug\AttributeTest.csprojResolveAssemblyReference.cache
+D:\Work\洋码头运营营销\营销\YmatouReturnBill\SellerReturnBillAPI\Main\AttributeTest\obj\Debug\AttributeTest.exe
+D:\Work\洋码头运营营销\营销\YmatouReturnBill\SellerReturnBillAPI\Main\AttributeTest\obj\Debug\AttributeTest.pdb

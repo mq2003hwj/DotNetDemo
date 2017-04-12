@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MangoDBTest", "MangoDBTest.csproj", "{6521C698-806F-4C74-8AF0-6D806FC64115}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6521C698-806F-4C74-8AF0-6D806FC64115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6521C698-806F-4C74-8AF0-6D806FC64115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6521C698-806F-4C74-8AF0-6D806FC64115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6521C698-806F-4C74-8AF0-6D806FC64115}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
